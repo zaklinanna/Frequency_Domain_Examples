@@ -11,6 +11,6 @@ structures within the data, identify the dominant frequencies present, and under
 The Fourier Transform is a mathematical transformation used to convert a function of time (or space) into a
 function of frequency. The equation for the Fourier Transform F(ω) of a continuous time-domain signal f(t):
 
-F(ω)=∫_(-∞)^∞▒〖f(t) e^(-iωt) dt〗
+F(ω)=∫_(-∞)^∞〖f(t) e^(-iωt) dt〗
 
 Where F(ω) is the Fourier Transform of a function, f(t) - the original time-domain function, ω is the angular frequency in radians per second, i is the imaginary unit, √-1. The integral is evaluated over time from −∞ to +∞. The result, F(ω), is generally a complex function where the magnitude represents the amplitude of the frequency component, and the argument (or phase) represents the phase shift of the frequency component.
