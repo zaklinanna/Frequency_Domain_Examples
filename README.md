@@ -1,6 +1,6 @@
 # Frequency_Domain_Examples
 
-Here are simple examples on for to transform time domain data into frequency domain with  Fourier Transform.
+Here are simple examples on how to transform time domain data into frequency domain with  Fourier Transform.
 
 The frequency domain is an analysis method used to study the same signals or systems in terms of frequency
 instead of time. This transformation from the time domain to the frequency domain is achieved through
