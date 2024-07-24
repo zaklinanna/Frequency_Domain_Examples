@@ -17,7 +17,7 @@ Where F(ω) is the Fourier Transform of a function, f(t) - the original time-dom
 
 
 The analysis is done with 4 following data sets:
-o	Dataset A: 0 m d-1 followed by a downward step change of 1 m d-1 in VT 
-o	Dataset B: 1 m d-1 followed by a downward step change of -1 m d-1 in VT
-o	Dataset C: 0 m d-1 followed by an upward step change of 1 m d-1 in VT
-o	Dataset D: -1 m d-1 followed by an upward step change of 1 m d-1 in VT
+- Dataset A: 0 m d-1 followed by a downward step change of 1 m d-1 in VT 
+- Dataset B: 1 m d-1 followed by a downward step change of -1 m d-1 in VT
+- Dataset C: 0 m d-1 followed by an upward step change of 1 m d-1 in VT
+- Dataset D: -1 m d-1 followed by an upward step change of 1 m d-1 in VT
