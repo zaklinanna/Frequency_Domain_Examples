@@ -14,3 +14,10 @@ function of frequency. The equation for the Fourier Transform F(ω) of a continu
 F(ω)=∫_(-∞)^∞〖f(t) e^(-iωt) dt〗
 
 Where F(ω) is the Fourier Transform of a function, f(t) - the original time-domain function, ω is the angular frequency in radians per second, i is the imaginary unit, √-1. The integral is evaluated over time from −∞ to +∞. The result, F(ω), is generally a complex function where the magnitude represents the amplitude of the frequency component, and the argument (or phase) represents the phase shift of the frequency component.
+
+
+The analysis is done with 4 following data sets:
+o	Dataset A: 0 m d-1 followed by a downward step change of 1 m d-1 in VT 
+o	Dataset B: 1 m d-1 followed by a downward step change of -1 m d-1 in VT
+o	Dataset C: 0 m d-1 followed by an upward step change of 1 m d-1 in VT
+o	Dataset D: -1 m d-1 followed by an upward step change of 1 m d-1 in VT
